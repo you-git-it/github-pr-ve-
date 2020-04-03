@@ -1,0 +1,1 @@
+﻿write-host "script til prøven"
